@@ -586,7 +586,7 @@ body{
     .svg-img{
         height: 200px;
         width: 250px;
-        margin-top: 40px;
+        margin-top: 80px;
     }
     .nav-items{
         display: flex;
@@ -621,17 +621,17 @@ body{
     }
     .intro-button{
         font-size: 14px;
-        padding: 5px;
+        padding: 14px;
         margin-top: 20px;
     }
     .intro{
-        width: 100%;
+        width: 350px;
         padding: 0;
         margin: 0;
     }
     .intro-content{
         display: flex;
-        width: 280px;
+        width: 340px;
         margin-bottom: 30px;
     }
 
@@ -662,7 +662,7 @@ body{
         display: flex;
     }
     .about-text{
-        width: 100%;
+        width: 95%;
         font-size: 15px;
     }
     .skill-content{

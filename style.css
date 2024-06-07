@@ -63,6 +63,7 @@ body{
     font-size: 40px;
     display: flex;
     padding-top: 100px;
+    margin-right: 120px;
 
 }
 .space{
@@ -90,7 +91,6 @@ body{
 .home-content{
     display: flex;
     align-items: center;
-    justify-content: space-around;
     width: 100%;
 }
 .about,.skills{

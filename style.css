@@ -39,6 +39,7 @@ body{
 .intro-content{
     font-size: 15px;
     color: #b0a9a9;
+    text-align: justify;
 }
 
 .nav-items{
@@ -121,6 +122,7 @@ body{
     padding: 50px;
     justify-content: center;
     align-items: center;
+    text-align: justify;
 }
 .skill-title{
     text-align: center;
@@ -630,7 +632,7 @@ body{
     .intro-content{
         display: flex;
         width: 280px;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
 
     .about{
@@ -773,7 +775,7 @@ body{
     cursor: pointer;
 }
 .contact{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 100px;
     display: flex;
     flex-direction: column;
